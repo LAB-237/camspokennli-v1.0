@@ -65,8 +65,8 @@ The experimental pipeline is organized into five modular phases to ensure reprod
 ## 🤗 Datasets & Ecosystem
 
 The raw audio files, metadata, and official dataset cards are hosted openly on Hugging Face:
-* **Dataset Hub:** [Hugging Face - Cameroon AI Research Lab](https://huggingface.co/cameroon-ai-lab)
-* **Organization Hub:** [GitHub - Cameroon AI Research Lab](https://github.com/cameroon-ai-lab)
+* **Dataset Hub:** [Hugging Face - LAB-237](https://huggingface.co/cameroon-ai-lab)
+* **Organization Hub:** [GitHub - LAB-237](https://github.com/cameroon-ai-lab)
 
 ---
 
@@ -75,4 +75,4 @@ The raw audio files, metadata, and official dataset cards are hosted openly on H
 Published under the **Apache License 2.0**. See the `LICENSE` file for details.
 
 ---
-*Maintained by the **Cameroon AI Research Lab***
+*Maintained by the **LAB-237***
